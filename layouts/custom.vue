@@ -10,10 +10,3 @@
 
   </template>
 
-<style>
-.nav-custom a{
-    display: inline-block;
-    margin-right: 10px;
-    color: red;
-}
-</style>

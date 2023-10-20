@@ -7,12 +7,5 @@
       </nav>
       <slot />
     </div>
+</template>
 
-  </template>
-
-<style>
-.nav a{
-    display: inline-block;
-    margin-right: 10px;
-}
-</style>

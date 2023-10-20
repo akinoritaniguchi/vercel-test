@@ -1,0 +1,11 @@
+
+.nav a{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.nav-custom a{
+    display: inline-block;
+    margin-right: 10px;
+    color: red;
+}
